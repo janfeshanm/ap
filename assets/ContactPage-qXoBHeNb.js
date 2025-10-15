@@ -1,0 +1,1 @@
+import{Q as e,_ as t}from"./NavComp.vue_vue_type_style_index_0_lang-CwdyVFg8.js";import{u as a,v as o,x as r,y as f,F as c}from"./index-YlalwlhR.js";import"./render-DE5QCeyI.js";const i=a({__name:"ContactPage",setup(s){return(n,_)=>(c(),o(e,null,{default:r(()=>[f(t,{style:{"background-color":"#11304c",height:"100px"},textColor:"#ffffffff"})]),_:1}))}});export{i as default};
